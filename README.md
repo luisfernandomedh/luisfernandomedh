@@ -41,6 +41,10 @@
 
 ###
 
+<h3 align="left">🛠 Used at least twice</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -73,14 +77,10 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
 <h3 align="left">🔥   My little nuggets :</h3>
 
 ###
 
-<p align="left">- See my repositories 👀</p>
+<p align="left">- Go see my repositories 👀</p>
 
 ###
